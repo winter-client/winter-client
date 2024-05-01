@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### "Hence to fight and conquer in all your battles is not supreme excellence; supreme excellence consists in breaking the enemy's resistance without fighting."  (Sun Tzu, _The Art of War_, chapter 3-Attack By Stratagem)
 <!--
 **winter-client/winter-client** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
